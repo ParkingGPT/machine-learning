@@ -1,0 +1,839 @@
+{
+  "copyright": "Copyright INRIX Inc.",
+  "versionNumber": "5.2",
+  "createdDate": "2023-12-02T22:56:13Z",
+  "responseId": "a59faad5-0e39-4fa0-9f55-8082326fcfff",
+  "count": 5,
+  "result": [
+    {
+      "id": 27017,
+      "type": "Restricted",
+      "costIndex": null,
+      "hrs": [
+        "Mon-Sun: 24 Hours"
+      ],
+      "rateCard": [
+        "Visitors Only: Free"
+      ],
+      "url": "https://www.parkme.com/lot/27017/acupuncture-herbal-clinic-san-francisco-ca",
+      "peps": [
+        {
+          "pepPt": [
+            -122.397483509582,
+            37.76064089671032
+          ],
+          "pepAz": 244,
+          "pepPrimary": true,
+          "pepType": "IN"
+        }
+      ],
+      "photoThumbs": [
+        "https://d13esfgglb25od.cloudfront.net/core/img/default.png"
+      ],
+      "pmtTypes": [],
+      "amenities": [
+        {
+          "id": 7,
+          "name": "Handicap Spaces",
+          "value": 1
+        },
+        {
+          "id": 10,
+          "name": "Open 24/7",
+          "value": true
+        },
+        {
+          "id": 13,
+          "name": "Unobstructed Parking",
+          "value": true
+        },
+        {
+          "id": 19,
+          "name": "Over 7ft. Clearance",
+          "value": true
+        }
+      ],
+      "reservations": [],
+      "paymentIDs": [],
+      "reviewCount": 1,
+      "reviewScore": 4,
+      "format": "Surface",
+      "name": "Acupuncture & Herbal Clinic",
+      "note": null,
+      "spacesTotal": 23,
+      "handicapSpacesTotal": 1,
+      "structured_rates": [
+        {
+          "dow_start": 1,
+          "dow_end": 7,
+          "rate": 0,
+          "increment": 1440,
+          "repeats": true,
+          "rate_line": "Visitors Only: Free"
+        }
+      ],
+      "currency": "$",
+      "currencyIso": "USD",
+      "operator": "ACTCM",
+      "phone": "(415) 282-9603",
+      "navigationAddress": {
+        "house_number": "450",
+        "street_name": "Connecticut St",
+        "street": "450 Connecticut St",
+        "city": "San Francisco",
+        "state": "CA",
+        "postal": "94107",
+        "country": "US",
+        "type": "NAVIGATION"
+      },
+      "pois": [],
+      "lotCategory": "Hospital",
+      "occupancy": {
+        "pct": 32,
+        "probability": 89,
+        "rank": 2,
+        "bucket": 1,
+        "available": 15
+      },
+      "distance": 764,
+      "buildingAddress": {
+        "house_number": "450",
+        "street_name": "Connecticut St",
+        "street": "450 Connecticut St",
+        "city": "San Francisco",
+        "state": "CA",
+        "postal": "94107",
+        "country": "US",
+        "type": "LEGAL"
+      },
+      "point": {
+        "type": "Point",
+        "coordinates": [
+          -122.3976753,
+          37.7605476
+        ]
+      },
+      "polygon": "gcneFnw`jVh@@Fx@k@BE_A",
+      "phones": [
+        {
+          "type": "Lot",
+          "number": "(415) 282-9603"
+        },
+        {
+          "type": "Central Office",
+          "number": "(415) 282-7600"
+        }
+      ],
+      "calculatedRates": null,
+      "isOpen": null,
+      "reviews": [
+        {
+          "reviewDate": "2018-11-06T20:21:13Z",
+          "name": "Joe F.",
+          "review": "This parking lot needs to be taken off of this site! Its a private parking lot, not for general public.\r\n\r\nIm the Facilities Project Manager for the location 415.575.6149\r\n\r\nJoe Fitzsimmons",
+          "stars": 4
+        }
+      ],
+      "photos": [
+        {
+          "thumbnail": "https://d13esfgglb25od.cloudfront.net/core/img/default.png",
+          "assetTypes": [
+            "DEFAULT"
+          ],
+          "full": "https://d13esfgglb25od.cloudfront.net/core/img/default.png",
+          "medium": "https://d13esfgglb25od.cloudfront.net/core/img/default.png"
+        }
+      ],
+      "offset": -28800,
+      "tz": "PST"
+    },
+    {
+      "id": 27873,
+      "type": "Restricted",
+      "costIndex": 1,
+      "hrs": [
+        "Mon-Sun: 7am-12am"
+      ],
+      "rateCard": [
+        "Customers Only: Free"
+      ],
+      "url": "https://www.parkme.com/lot/27873/walgreens-san-francisco-ca",
+      "peps": [
+        {
+          "pepPt": [
+            -122.40621299690774,
+            37.75355254839846
+          ],
+          "pepAz": 121,
+          "pepPrimary": true,
+          "pepType": "IN/OUT"
+        },
+        {
+          "pepPt": [
+            -122.40588220903405,
+            37.75314592524579
+          ],
+          "pepAz": 52,
+          "pepPrimary": false,
+          "pepType": "IN/OUT"
+        },
+        {
+          "pepPt": [
+            -122.40564013967045,
+            37.753158119295875
+          ],
+          "pepAz": 318,
+          "pepPrimary": false,
+          "pepType": "IN/OUT"
+        }
+      ],
+      "photoThumbs": [
+        "https://d13esfgglb25od.cloudfront.net/core/img/default.png"
+      ],
+      "pmtTypes": [],
+      "amenities": [
+        {
+          "id": 7,
+          "name": "Handicap Spaces",
+          "value": 1
+        },
+        {
+          "id": 13,
+          "name": "Unobstructed Parking",
+          "value": true
+        },
+        {
+          "id": 19,
+          "name": "Over 7ft. Clearance",
+          "value": true
+        },
+        {
+          "id": 22,
+          "name": "Video Monitoring",
+          "value": true
+        },
+        {
+          "id": 25,
+          "name": "Parking Lighting",
+          "value": true
+        }
+      ],
+      "reservations": [],
+      "paymentIDs": [],
+      "reviewCount": 0,
+      "reviewScore": 0,
+      "format": "Surface",
+      "name": "Walgreens",
+      "note": null,
+      "spacesTotal": 28,
+      "handicapSpacesTotal": 1,
+      "structured_rates": [
+        {
+          "time_in": "07:00-00:00",
+          "time_out": "07:00-00:00",
+          "dow_start": 1,
+          "dow_end": 7,
+          "rate": 0,
+          "increment": 1440,
+          "repeats": true,
+          "rate_line": "Customers Only: Free"
+        }
+      ],
+      "currency": "$",
+      "currencyIso": "USD",
+      "operator": "Walgreen Co",
+      "phone": "(415) 647-1397",
+      "navigationAddress": {
+        "house_number": "1189",
+        "street_name": "Potrero Ave",
+        "street": "1189 Potrero Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "postal": "94110",
+        "country": "US",
+        "type": "NAVIGATION"
+      },
+      "pois": [],
+      "lotCategory": null,
+      "occupancy": {
+        "pct": 30,
+        "probability": 91,
+        "rank": 2,
+        "bucket": 1,
+        "available": 19
+      },
+      "distance": 642,
+      "buildingAddress": {
+        "house_number": "1189",
+        "street_name": "Potrero Ave",
+        "street": "1189 Potrero Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "postal": "94110",
+        "country": "US",
+        "type": "LEGAL"
+      },
+      "point": {
+        "type": "Point",
+        "coordinates": [
+          -122.4057354,
+          37.7532621
+        ]
+      },
+      "polygon": "}vleFllbjV?Oh@G?]FA?]^ADhAwAL",
+      "phones": [
+        {
+          "type": "Lot",
+          "number": "(415) 647-1397"
+        },
+        {
+          "type": "Unlock",
+          "number": "(800) 621-2970"
+        }
+      ],
+      "calculatedRates": null,
+      "isOpen": null,
+      "reviews": [],
+      "photos": [
+        {
+          "thumbnail": "https://d13esfgglb25od.cloudfront.net/core/img/default.png",
+          "assetTypes": [
+            "DEFAULT"
+          ],
+          "full": "https://d13esfgglb25od.cloudfront.net/core/img/default.png",
+          "medium": "https://d13esfgglb25od.cloudfront.net/core/img/default.png"
+        }
+      ],
+      "offset": -28800,
+      "tz": "PST"
+    },
+    {
+      "id": 22117,
+      "type": "Non-restricted",
+      "costIndex": 3,
+      "hrs": [
+        "Mon-Sun: 24 Hours"
+      ],
+      "rateCard": [
+        "1 Hour: $3",
+        "2 Hours: $5",
+        "3 Hours: $7",
+        "4 Hours: $10",
+        "5 Hours: $13.50",
+        "6 Hours: $17",
+        "7 Hours: $20.50",
+        "24 Hours: $24",
+        "Event: $7-$55",
+        "Monthly: $95-$145"
+      ],
+      "url": "https://www.parkme.com/lot/22117/san-francisco-general-hospital-medical-center-garage-san-francisco-ca",
+      "peps": [
+        {
+          "pepPt": [
+            -122.40490796975791,
+            37.75426608059807
+          ],
+          "pepAz": 184,
+          "pepPrimary": false,
+          "pepType": "IN"
+        },
+        {
+          "pepPt": [
+            -122.40491604683804,
+            37.75319670546444
+          ],
+          "pepAz": 357,
+          "pepPrimary": true,
+          "pepType": "IN"
+        }
+      ],
+      "photoThumbs": [
+        "https://d13esfgglb25od.cloudfront.net/core/img/default.png"
+      ],
+      "pmtTypes": [
+        "Amex",
+        "Bills",
+        "Coins",
+        "Debit card",
+        "MC/Visa",
+        "Pay by Phone"
+      ],
+      "amenities": [
+        {
+          "id": 2,
+          "name": "Max Height",
+          "value": 85,
+          "metric": 2.159
+        },
+        {
+          "id": 4,
+          "name": "EV Chargers",
+          "value": true
+        },
+        {
+          "id": 7,
+          "name": "Handicap Spaces",
+          "value": 10
+        },
+        {
+          "id": 9,
+          "name": "Covered Parking Available",
+          "value": true
+        },
+        {
+          "id": 10,
+          "name": "Open 24/7",
+          "value": true
+        },
+        {
+          "id": 13,
+          "name": "Unobstructed Parking",
+          "value": true
+        },
+        {
+          "id": 18,
+          "name": "Credit Cards Accepted",
+          "value": true
+        },
+        {
+          "id": 19,
+          "name": "Over 7ft. Clearance",
+          "value": true
+        },
+        {
+          "id": 22,
+          "name": "Video Monitoring",
+          "value": true
+        },
+        {
+          "id": 23,
+          "name": "Bicycle Parking",
+          "value": true
+        },
+        {
+          "id": 25,
+          "name": "Parking Lighting",
+          "value": true
+        }
+      ],
+      "reservations": [],
+      "paymentIDs": [],
+      "reviewCount": 1,
+      "reviewScore": 5,
+      "format": "Surface and Structure",
+      "name": "San Francisco General Hospital - Medical Center Garage",
+      "note": "Effective March 11th, the surface lots will be permanently closed.\nMonthly (Carpool / Car share): $82.50\nMonthly (Restricted Evening): $95\nMonthly (SEIU / RN): $108\nMonthly (Regular): $145\nLost Ticket Pays Max\nSpecial Event Rate (SFMTA staff review/approval required): $7-$55\nRates for other Lots/Perimeter - ZSF General Hospital and Trauma Center:\nRegular Campus Permit: $165\nRestricted Campus Permit Evening: $85\n7-Day Campus Permit: $95",
+      "spacesTotal": 823,
+      "handicapSpacesTotal": 10,
+      "structured_rates": [
+        {
+          "dow_start": 1,
+          "dow_end": 7,
+          "rate": 3,
+          "increment": 60,
+          "rate_line": "1 Hour: $3"
+        },
+        {
+          "dow_start": 1,
+          "dow_end": 7,
+          "rate": 5,
+          "increment": 120,
+          "rate_line": " 2 Hours: $5"
+        },
+        {
+          "dow_start": 1,
+          "dow_end": 7,
+          "rate": 7,
+          "increment": 180,
+          "rate_line": " 3 Hours: $7"
+        },
+        {
+          "dow_start": 1,
+          "dow_end": 7,
+          "rate": 10,
+          "increment": 240,
+          "rate_line": " 4 Hours: $10"
+        },
+        {
+          "dow_start": 1,
+          "dow_end": 7,
+          "rate": 13.5,
+          "increment": 300,
+          "rate_line": " 5 Hours: $13.50"
+        },
+        {
+          "dow_start": 1,
+          "dow_end": 7,
+          "rate": 17,
+          "increment": 360,
+          "rate_line": " 6 Hours: $17"
+        },
+        {
+          "dow_start": 1,
+          "dow_end": 7,
+          "rate": 20.5,
+          "increment": 420,
+          "rate_line": " 7 Hours: $20.50"
+        },
+        {
+          "dow_start": 1,
+          "dow_end": 7,
+          "rate": 24,
+          "increment": 1440,
+          "repeats": true,
+          "rate_line": " 24 Hours: $24"
+        },
+        {
+          "dow_start": 1,
+          "dow_end": 7,
+          "rate": 145,
+          "increment": 44640,
+          "repeats": true,
+          "rate_line": " Monthly: $95-$145"
+        }
+      ],
+      "currency": "$",
+      "currencyIso": "USD",
+      "operator": "San Francisco Municipal Transportation Agency",
+      "phone": "(415) 874-4356",
+      "navigationAddress": {
+        "house_number": null,
+        "street_name": "24th St",
+        "street": "2500 24th St",
+        "city": "San Francisco",
+        "state": "CA",
+        "postal": "94110",
+        "country": "US",
+        "type": "NAVIGATION"
+      },
+      "pois": [],
+      "lotCategory": "Hospital",
+      "occupancy": {
+        "pct": 22,
+        "probability": 95,
+        "rank": 2,
+        "bucket": 1,
+        "available": 641
+      },
+      "distance": 570,
+      "buildingAddress": {
+        "house_number": null,
+        "street_name": "24th St",
+        "street": "2500 24th St",
+        "city": "San Francisco",
+        "state": "CA",
+        "postal": "94110",
+        "country": "US",
+        "type": "LEGAL"
+      },
+      "point": {
+        "type": "Point",
+        "coordinates": [
+          -122.404941860689,
+          37.7537584721955
+        ]
+      },
+      "polygon": "mzleFxgbjVMOEgALWxBK?Lv@EFbBsDN",
+      "phones": [
+        {
+          "type": "Lot",
+          "number": "(415) 874-4356"
+        },
+        {
+          "type": "Central Office",
+          "number": "(415) 701-2311"
+        },
+        {
+          "type": "Tow",
+          "number": "(415) 826-8866"
+        }
+      ],
+      "calculatedRates": null,
+      "isOpen": null,
+      "reviews": [
+        {
+          "reviewDate": "2016-02-02T03:03:56Z",
+          "name": "Carol B.",
+          "review": "Very convenient to Brava theatre and 24th street restaurants",
+          "stars": 5
+        }
+      ],
+      "photos": [
+        {
+          "thumbnail": "https://d13esfgglb25od.cloudfront.net/core/img/default.png",
+          "assetTypes": [
+            "DEFAULT"
+          ],
+          "full": "https://d13esfgglb25od.cloudfront.net/core/img/default.png",
+          "medium": "https://d13esfgglb25od.cloudfront.net/core/img/default.png"
+        }
+      ],
+      "offset": -28800,
+      "tz": "PST"
+    },
+    {
+      "id": 27612,
+      "type": "Restricted",
+      "costIndex": null,
+      "hrs": [
+        "Mon-Sat: 8:30am-9pm"
+      ],
+      "rateCard": [
+        "Visitors Only: Free"
+      ],
+      "url": "https://www.parkme.com/lot/27612/family-health-center-san-francisco-ca",
+      "peps": [
+        {
+          "pepPt": [
+            -122.40562552353367,
+            37.75700014014762
+          ],
+          "pepAz": 333,
+          "pepPrimary": false,
+          "pepType": "IN"
+        },
+        {
+          "pepPt": [
+            -122.40659452175983,
+            37.75757693250186
+          ],
+          "pepAz": 77,
+          "pepPrimary": true,
+          "pepType": "IN/OUT"
+        }
+      ],
+      "photoThumbs": [
+        "https://d13esfgglb25od.cloudfront.net/core/img/default.png"
+      ],
+      "pmtTypes": [],
+      "amenities": [
+        {
+          "id": 7,
+          "name": "Handicap Spaces",
+          "value": 6
+        },
+        {
+          "id": 13,
+          "name": "Unobstructed Parking",
+          "value": true
+        },
+        {
+          "id": 19,
+          "name": "Over 7ft. Clearance",
+          "value": true
+        },
+        {
+          "id": 25,
+          "name": "Parking Lighting",
+          "value": true
+        }
+      ],
+      "reservations": [],
+      "paymentIDs": [],
+      "reviewCount": 0,
+      "reviewScore": 0,
+      "format": "Surface",
+      "name": "Family Health Center",
+      "note": "Thu (Every 1st & 3rd): 12pm – 9pm",
+      "spacesTotal": 100,
+      "handicapSpacesTotal": 6,
+      "structured_rates": [
+        {
+          "time_in": "08:30-21:00",
+          "time_out": "08:30-21:00",
+          "dow_start": 1,
+          "dow_end": 6,
+          "rate": 0,
+          "increment": 1440,
+          "repeats": true,
+          "rate_line": "Visitors Only: Free"
+        }
+      ],
+      "currency": "$",
+      "currencyIso": "USD",
+      "operator": "Zuckerberg San Francisco General Hospital and Trauma Center",
+      "phone": "(628) 206-8000",
+      "navigationAddress": {
+        "house_number": "995",
+        "street_name": "Potrero Ave",
+        "street": "995 Potrero Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "postal": "94110",
+        "country": "US",
+        "type": "NAVIGATION"
+      },
+      "pois": [
+        {
+          "poi_name": "San Francisco General Hospital",
+          "type": "HOSPITAL",
+          "coordinates": [
+            -122.4052172,
+            37.7567781
+          ]
+        }
+      ],
+      "lotCategory": "Hospital",
+      "occupancy": {
+        "pct": 33,
+        "probability": 89,
+        "rank": 2,
+        "bucket": 1,
+        "available": 67
+      },
+      "distance": 799,
+      "buildingAddress": {
+        "house_number": "995",
+        "street_name": "Potrero Ave",
+        "street": "995 Potrero Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "postal": "94110",
+        "country": "US",
+        "type": "LEGAL"
+      },
+      "point": {
+        "type": "Point",
+        "coordinates": [
+          -122.405991340974,
+          37.7577149845643
+        ]
+      },
+      "polygon": "cpmeF`objVu@DCiAC@Cy@I?EiBn@CDdBLA@`@l@C@\\]@DnA|@E?Fn@C@PyBJAc@??",
+      "phones": [
+        {
+          "type": "Central Office",
+          "number": "(628) 206-8000"
+        }
+      ],
+      "calculatedRates": null,
+      "isOpen": null,
+      "reviews": [],
+      "photos": [
+        {
+          "thumbnail": "https://d13esfgglb25od.cloudfront.net/core/img/default.png",
+          "assetTypes": [
+            "DEFAULT"
+          ],
+          "full": "https://d13esfgglb25od.cloudfront.net/core/img/default.png",
+          "medium": "https://d13esfgglb25od.cloudfront.net/core/img/default.png"
+        }
+      ],
+      "offset": -28800,
+      "tz": "PST"
+    },
+    {
+      "id": 388388,
+      "type": "Restricted",
+      "costIndex": 0,
+      "hrs": [
+        "See Store/Business Hours"
+      ],
+      "rateCard": [
+        "Guests Only: Free"
+      ],
+      "url": "https://www.parkme.com/lot/388388/1001-potrero-ave",
+      "peps": [
+        {
+          "pepPt": [
+            -122.40500364460617,
+            37.754759346999435
+          ],
+          "pepAz": 86,
+          "pepPrimary": true,
+          "pepType": "IN"
+        }
+      ],
+      "photoThumbs": [
+        "https://d13esfgglb25od.cloudfront.net/core/img/default.png"
+      ],
+      "pmtTypes": [],
+      "amenities": [
+        {
+          "id": 19,
+          "name": "Over 7ft. Clearance",
+          "value": true
+        },
+        {
+          "id": 25,
+          "name": "Parking Lighting",
+          "value": true
+        }
+      ],
+      "reservations": [],
+      "paymentIDs": [],
+      "reviewCount": 0,
+      "reviewScore": 0,
+      "format": "Surface",
+      "name": "1001 Potrero Ave Parking",
+      "note": null,
+      "spacesTotal": 218,
+      "handicapSpacesTotal": 0,
+      "structured_rates": [
+        {
+          "rate": 0,
+          "increment": 1440,
+          "repeats": true,
+          "rate_line": "Guests Only: Free"
+        }
+      ],
+      "currency": "$",
+      "currencyIso": "USD",
+      "operator": null,
+      "phone": null,
+      "navigationAddress": {
+        "house_number": null,
+        "street_name": null,
+        "street": "2538 23rd St",
+        "city": "San Francisco",
+        "state": "CA",
+        "postal": "94110",
+        "country": "US",
+        "type": "NAVIGATION"
+      },
+      "pois": [],
+      "lotCategory": null,
+      "occupancy": {
+        "pct": 19,
+        "probability": 96,
+        "rank": 2,
+        "bucket": 1,
+        "available": 176
+      },
+      "distance": 545,
+      "buildingAddress": {
+        "house_number": null,
+        "street_name": null,
+        "street": "1001 Potrero Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "postal": "94110",
+        "country": "US",
+        "type": "LEGAL"
+      },
+      "point": {
+        "type": "Point",
+        "coordinates": [
+          -122.4045007723254,
+          37.75479081514425
+        ]
+      },
+      "polygon": "_`meFhfbjVIaDVCAg@hAE?NJAJzDmBH",
+      "calculatedRates": null,
+      "isOpen": null,
+      "reviews": [],
+      "photos": [
+        {
+          "thumbnail": "https://d13esfgglb25od.cloudfront.net/core/img/default.png",
+          "assetTypes": [
+            "DEFAULT"
+          ],
+          "full": "https://d13esfgglb25od.cloudfront.net/core/img/default.png",
+          "medium": "https://d13esfgglb25od.cloudfront.net/core/img/default.png"
+        }
+      ],
+      "offset": -28800,
+      "tz": "PST"
+    }
+  ]
+}

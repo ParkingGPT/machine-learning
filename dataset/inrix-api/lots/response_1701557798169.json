@@ -1,0 +1,414 @@
+{
+  "copyright": "Copyright INRIX Inc.",
+  "versionNumber": "5.2",
+  "createdDate": "2023-12-02T22:56:38Z",
+  "responseId": "769384a6-9c9b-477d-9f45-d0ea148311eb",
+  "count": 3,
+  "result": [
+    {
+      "id": 28169,
+      "type": "Restricted",
+      "costIndex": null,
+      "hrs": [
+        "Mon-Sun: 24 Hours"
+      ],
+      "rateCard": [
+        "Visitors Only: Free"
+      ],
+      "url": "https://www.parkme.com/lot/28169/redeemer-community-church-san-francisco-ca",
+      "peps": [
+        {
+          "pepPt": [
+            -122.38210287807482,
+            37.738596507881645
+          ],
+          "pepAz": 44,
+          "pepPrimary": true,
+          "pepType": "IN"
+        }
+      ],
+      "photoThumbs": [
+        "https://d13esfgglb25od.cloudfront.net/core/img/default.png"
+      ],
+      "pmtTypes": [],
+      "amenities": [
+        {
+          "id": 7,
+          "name": "Handicap Spaces",
+          "value": 1
+        },
+        {
+          "id": 10,
+          "name": "Open 24/7",
+          "value": true
+        },
+        {
+          "id": 13,
+          "name": "Unobstructed Parking",
+          "value": true
+        },
+        {
+          "id": 19,
+          "name": "Over 7ft. Clearance",
+          "value": true
+        }
+      ],
+      "reservations": [],
+      "paymentIDs": [],
+      "reviewCount": 0,
+      "reviewScore": 0,
+      "format": "Surface",
+      "name": "Redeemer Community Church",
+      "note": null,
+      "spacesTotal": 11,
+      "handicapSpacesTotal": 1,
+      "structured_rates": [
+        {
+          "dow_start": 1,
+          "dow_end": 7,
+          "rate": 0,
+          "increment": 1440,
+          "repeats": true,
+          "rate_line": "Visitors Only: Free"
+        }
+      ],
+      "currency": "$",
+      "currencyIso": "USD",
+      "operator": "Redeemer Community Church",
+      "phone": "(415) 671-2194",
+      "navigationAddress": {
+        "house_number": "1224",
+        "street_name": "Fairfax Ave",
+        "street": "1224 Fairfax Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "postal": "94124",
+        "country": "US",
+        "type": "NAVIGATION"
+      },
+      "pois": [],
+      "lotCategory": null,
+      "occupancy": {
+        "pct": 39,
+        "probability": 84,
+        "rank": 2,
+        "bucket": 1,
+        "available": 6
+      },
+      "distance": 875,
+      "buildingAddress": {
+        "house_number": "1224",
+        "street_name": "Fairfax Ave",
+        "street": "1224 Fairfax Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "postal": "94124",
+        "country": "US",
+        "type": "LEGAL"
+      },
+      "point": {
+        "type": "Point",
+        "coordinates": [
+          -122.3819929,
+          37.7387089
+        ]
+      },
+      "polygon": "gyieFnv}iVMX[WL[ZX",
+      "phones": [
+        {
+          "type": "Central Office",
+          "number": "(415) 671-2194"
+        }
+      ],
+      "calculatedRates": null,
+      "isOpen": null,
+      "reviews": [],
+      "photos": [
+        {
+          "thumbnail": "https://d13esfgglb25od.cloudfront.net/core/img/default.png",
+          "assetTypes": [
+            "DEFAULT"
+          ],
+          "full": "https://d13esfgglb25od.cloudfront.net/core/img/default.png",
+          "medium": "https://d13esfgglb25od.cloudfront.net/core/img/default.png"
+        }
+      ],
+      "offset": -28800,
+      "tz": "PST"
+    },
+    {
+      "id": 27348,
+      "type": "Restricted",
+      "costIndex": 1,
+      "hrs": [
+        "Mon-Sun: 24 Hours"
+      ],
+      "rateCard": [
+        "Customers Only: Free"
+      ],
+      "url": "https://www.parkme.com/lot/27348/1555-burke-ave",
+      "peps": [
+        {
+          "pepPt": [
+            -122.385938897,
+            37.7442203505
+          ],
+          "pepAz": 224,
+          "pepPrimary": true,
+          "pepType": "IN"
+        }
+      ],
+      "photoThumbs": [
+        "https://d13esfgglb25od.cloudfront.net/core/img/default.png"
+      ],
+      "pmtTypes": [],
+      "amenities": [
+        {
+          "id": 10,
+          "name": "Open 24/7",
+          "value": true
+        },
+        {
+          "id": 13,
+          "name": "Unobstructed Parking",
+          "value": true
+        },
+        {
+          "id": 19,
+          "name": "Over 7ft. Clearance",
+          "value": true
+        }
+      ],
+      "reservations": [],
+      "paymentIDs": [],
+      "reviewCount": 0,
+      "reviewScore": 0,
+      "format": "Surface",
+      "name": "1555 Burke Ave Parking",
+      "note": null,
+      "spacesTotal": 41,
+      "handicapSpacesTotal": 0,
+      "structured_rates": [
+        {
+          "dow_start": 1,
+          "dow_end": 7,
+          "rate": 0,
+          "increment": 1440,
+          "repeats": true,
+          "rate_line": "Customers Only: Free"
+        }
+      ],
+      "currency": "$",
+      "currencyIso": "USD",
+      "operator": null,
+      "phone": null,
+      "navigationAddress": {
+        "house_number": "1555",
+        "street_name": "Burke Ave",
+        "street": "1555 Burke Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "postal": "94124",
+        "country": "US",
+        "type": "NAVIGATION"
+      },
+      "pois": [],
+      "lotCategory": null,
+      "occupancy": {
+        "pct": 45,
+        "probability": 79,
+        "rank": 2,
+        "bucket": 1,
+        "available": 22
+      },
+      "distance": 399,
+      "buildingAddress": {
+        "house_number": "1555",
+        "street_name": "Burke Ave",
+        "street": "1555 Burke Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "postal": "94124",
+        "country": "US",
+        "type": "LEGAL"
+      },
+      "point": {
+        "type": "Point",
+        "coordinates": [
+          -122.3862903,
+          37.7438535
+        ]
+      },
+      "polygon": "kxjeFls~iV}BsBJS|BpBKT",
+      "calculatedRates": null,
+      "isOpen": null,
+      "reviews": [],
+      "photos": [
+        {
+          "thumbnail": "https://d13esfgglb25od.cloudfront.net/core/img/default.png",
+          "assetTypes": [
+            "DEFAULT"
+          ],
+          "full": "https://d13esfgglb25od.cloudfront.net/core/img/default.png",
+          "medium": "https://d13esfgglb25od.cloudfront.net/core/img/default.png"
+        }
+      ],
+      "offset": -28800,
+      "tz": "PST"
+    },
+    {
+      "id": 27341,
+      "type": "Restricted",
+      "costIndex": null,
+      "hrs": [
+        "Tue-Thu: 3pm-9pm",
+        "Fri-Sat: 12pm-10pm",
+        "Sun: 12pm-8pm"
+      ],
+      "rateCard": [
+        "Visitors Only: Free"
+      ],
+      "url": "https://www.parkme.com/lot/27341/speakeasy-san-francisco-ca",
+      "peps": [
+        {
+          "pepPt": [
+            -122.38120216726941,
+            37.738364433150366
+          ],
+          "pepAz": 107,
+          "pepPrimary": true,
+          "pepType": "IN"
+        }
+      ],
+      "photoThumbs": [
+        "https://d13esfgglb25od.cloudfront.net/core/img/default.png"
+      ],
+      "pmtTypes": [],
+      "amenities": [
+        {
+          "id": 19,
+          "name": "Over 7ft. Clearance",
+          "value": true
+        },
+        {
+          "id": 25,
+          "name": "Parking Lighting",
+          "value": true
+        }
+      ],
+      "reservations": [],
+      "paymentIDs": [],
+      "reviewCount": 0,
+      "reviewScore": 0,
+      "format": "Surface",
+      "name": "Speakeasy",
+      "note": null,
+      "spacesTotal": 20,
+      "handicapSpacesTotal": 0,
+      "structured_rates": [
+        {
+          "time_in": "15:00-21:00",
+          "time_out": "15:00-21:00",
+          "dow_start": 2,
+          "dow_end": 4,
+          "rate": 0,
+          "increment": 1440,
+          "repeats": true,
+          "rate_line": "Visitors Only: Free"
+        },
+        {
+          "time_in": "12:00-22:00",
+          "time_out": "12:00-22:00",
+          "dow_start": 5,
+          "dow_end": 6,
+          "rate": 0,
+          "increment": 1440,
+          "repeats": true,
+          "rate_line": "Visitors Only: Free"
+        },
+        {
+          "time_in": "12:00-20:00",
+          "time_out": "12:00-20:00",
+          "dow_start": 7,
+          "dow_end": 7,
+          "rate": 0,
+          "increment": 1440,
+          "repeats": true,
+          "rate_line": "Visitors Only: Free"
+        }
+      ],
+      "currency": "$",
+      "currencyIso": "USD",
+      "operator": "SPEAKEASY ALES & LAGERS",
+      "phone": "(415) 642-3371",
+      "navigationAddress": {
+        "house_number": null,
+        "street_name": null,
+        "street": "401 Keith St",
+        "city": "San Francisco",
+        "state": "CA",
+        "postal": "94124",
+        "country": "US",
+        "type": "NAVIGATION"
+      },
+      "pois": [
+        {
+          "poi_name": "Speakeasy Ales & Lagers",
+          "type": "EATERY",
+          "coordinates": [
+            -122.3806424,
+            37.7381455
+          ]
+        }
+      ],
+      "lotCategory": null,
+      "occupancy": {
+        "pct": 37,
+        "probability": 86,
+        "rank": 2,
+        "bucket": 1,
+        "available": 12
+      },
+      "distance": 932,
+      "buildingAddress": {
+        "house_number": null,
+        "street_name": null,
+        "street": "1195 Evans Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "postal": "94124",
+        "country": "US",
+        "type": "LEGAL"
+      },
+      "point": {
+        "type": "Point",
+        "coordinates": [
+          -122.3810352,
+          37.7383141
+        ]
+      },
+      "polygon": "}vieFvq}iVs@q@P]r@p@Q\\",
+      "phones": [
+        {
+          "type": "Lot",
+          "number": "(415) 642-3371"
+        }
+      ],
+      "calculatedRates": null,
+      "isOpen": null,
+      "reviews": [],
+      "photos": [
+        {
+          "thumbnail": "https://d13esfgglb25od.cloudfront.net/core/img/default.png",
+          "assetTypes": [
+            "DEFAULT"
+          ],
+          "full": "https://d13esfgglb25od.cloudfront.net/core/img/default.png",
+          "medium": "https://d13esfgglb25od.cloudfront.net/core/img/default.png"
+        }
+      ],
+      "offset": -28800,
+      "tz": "PST"
+    }
+  ]
+}
